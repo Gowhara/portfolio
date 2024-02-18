@@ -10,7 +10,7 @@ const Mainsection = () => {
                        <span>Hello,I'm Gowhara Eid</span> 
                     </div>
                     <div className="helperText">
-                      <span> Web Developer Using React </span> 
+                      <span> Frontend Developer Using React </span> 
                       <span> Mobile Developer Using Flutter</span>
                       
                     </div>

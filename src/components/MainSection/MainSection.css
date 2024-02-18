@@ -1,0 +1,21 @@
+.mainSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.mainSection .left .texts {
+  color: white;
+  margin-left: 5rem;
+}
+.mainSection .left .texts .header span {
+  font-size: 4rem;
+}
+.mainSection .left .texts .helperText {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.8rem;
+  gap: 0.6rem;
+}
+.mainSection .right {
+  position: relative;
+}/*# sourceMappingURL=MainSection.css.map */
